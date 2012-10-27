@@ -88,6 +88,7 @@ set modelines=10
 color desert
 
 " Directories for swp files
+silent !mkdir -p ~/.vim/backup
 set backupdir=~/.vim/backup
 set directory=~/.vim/backup
 
