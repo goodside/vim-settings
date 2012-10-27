@@ -88,8 +88,8 @@ set modelines=10
 color desert
 
 " Directories for swp files
-set backupdir=~/.tent/.vim/backup
-set directory=~/.tent/.vim/backup
+set backupdir=~/.vim/backup
+set directory=~/.vim/backup
 
 " Show (partial) command in the status line
 set showcmd
